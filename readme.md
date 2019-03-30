@@ -16,16 +16,17 @@ If you want to change cordinets you have to change them in the function too.
 
 ## Usage
 
-First make sure the shulker box is existing and loaded. (Look at setup)
+First make sure the shulker box is existing and loaded (Look at setup).
 
-You need one player taged `copy_held_item_from`
-You need one or more players taged `copy_held_item_to`
+You need one player taged `copy_held_item_from`.
 
-Finaly, run the function `copy_held_item`
+You need one or more players taged `copy_held_item_to`.
+
+Finaly, run the function `copy_held_item`.
 
 ## How
 
-Check the comments in [copy.mcfunction](../master/data/copy_held_item/functions/copy.mcfunction)
+Check the comments in [copy.mcfunction](../master/data/copy_held_item/functions/copy.mcfunction).
 
 ## Credit
 
