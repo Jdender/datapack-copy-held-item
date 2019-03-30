@@ -25,4 +25,4 @@ Finaly, run the function `copy_held_item`
 
 # How
 
-Check the comments in [copy.mcfunction](../blob/master/data/copy_held_item/functions/copy.mcfunction)
+Check the comments in [copy.mcfunction](../master/data/copy_held_item/functions/copy.mcfunction)
