@@ -26,3 +26,9 @@ Finaly, run the function `copy_held_item`
 ## How
 
 Check the comments in [copy.mcfunction](../master/data/copy_held_item/functions/copy.mcfunction)
+
+## Credit
+
+This datapack was adapted from tryashtar's [Shulker Box Tooltip Preview video](https://youtu.be/lZP-qnDFz5k).
+
+Tryashtar makes amazing content and you should check him out if you're interested in commands and datapacks.
