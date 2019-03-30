@@ -23,6 +23,6 @@ You need one or more players taged `copy_held_item_to`
 
 Finaly, run the function `copy_held_item`
 
-# How
+## How
 
 Check the comments in [copy.mcfunction](../master/data/copy_held_item/functions/copy.mcfunction)
